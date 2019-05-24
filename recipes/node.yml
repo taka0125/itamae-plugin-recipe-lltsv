@@ -1,0 +1,4 @@
+lltsv:
+  version: 0.6.1
+  arch: linux_amd64
+  install_path: /usr/local/bin
